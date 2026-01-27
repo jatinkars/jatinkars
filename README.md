@@ -1,5 +1,65 @@
 # 💫 About Me:
-I'm a Data Science graduate student at Arizona State University with a passion for building scalable data infrastructure that democratizes access to insights. As a Data Engineering Intern at JP Morgan Chase, I transform complex data challenges into solutions that empower organizations whether it's processing 1TB of daily transaction data or building analytics platforms that serve 30,000+ users.<br>portfolio : https://id-preview--e812a33b-0a4b-45a6-9322-e4b38d007d7d.lovable.app<br><br>My fascination with data engineering began when I tackled a seemingly impossible challenge: unifying fragmented transaction data into a cohesive analytics platform. That project didn't just improve processing speed by 40% it reduced fraud by 28% and taught me that the best data solutions serve people first, technology second. Since then, I've architected full-stack data platforms, designed enterprise data models, and collaborated across Finance, Sales, Marketing, and Product teams to turn data requirements into scalable, impactful solutions.<br><br>I believe data infrastructure should empower decision-makers, not create barriers. Whether I'm building ETL pipelines with Apache Spark, designing executive dashboards, or optimizing distributed systems, my focus remains the same: creating platforms that make information accessible, actionable, and secure. I'm particularly drawn to organizations that use technology as a force for good where performance and privacy aren't competing priorities, but shared values.<br><br>I'm currently seeking full-time Data Engineering and Analytics opportunities starting May 2025, where I can apply my skills in Python, SQL, Go, Java, Apache Spark, Docker, Kubernetes, and React to build systems that scale. I'm especially interested in roles that combine technical challenges with mission-driven work whether that's democratizing data access, enhancing security infrastructure, or building platforms that make the internet faster and more accessible.<br><br>If you're building data platforms that prioritize both performance and people, I'd love to collaborate. I'm always excited to discuss distributed systems, data architecture, and how we can leverage technology to solve meaningful problems.<br><br>Currently: M.S. Data Science, Analytics, and Engineering @ Arizona State University
+
+I'm a Data Science grad student at Arizona State University who turns data chaos into something actually useful. As a Data Engineering Intern at JP Morgan Chase, I spend my days making 1TB of transaction data behave and building analytics platforms that 30,000+ users actually enjoy using (yes, it's possible).<br><br>**Portfolio:** [https://id-preview--e812a33b-0a4b-45a6-9322-e4b38d007d7d.lovable.app](https://jatinkumarportfoilo.lovable.app)
+
+## 🎯 Origin Story
+
+My data engineering obsession started with "The Great Transaction Data Crisis" – fragmented data everywhere, stakeholders in full panic mode, and me armed with Python and questionable amounts of caffeine. I somehow unified that mess into a cohesive analytics platform, improved processing speed by 40%, and reduced fraud by 28%. Plot twist: I learned that the best data solutions prioritize people over fancy algorithms. Who knew?
+
+Since then, I've been architecting full-stack data platforms, designing enterprise data models, and translating between Finance-speak, Sales-speak, Marketing-speak, and Product-speak (it's basically being a data polyglot). I turn business requirements into scalable solutions, and occasionally convince people that "just one more column" is never just one more column.
+
+## 💭 My Philosophy
+
+Data infrastructure should empower decision-makers, not give them new reasons to schedule therapy. Whether I'm building ETL pipelines with Apache Spark, designing executive dashboards that executives actually open, or optimizing distributed systems at 2 AM (don't ask), my goal is simple: make information accessible, actionable, and secure.
+
+I'm drawn to organizations that use technology as a force for good – where performance and privacy are best friends, not frenemies. If your company thinks "move fast and break things" should include "then fix them properly," we'll get along great.
+
+## 🔧 What I Actually Do
+
+- Build data platforms that don't make people want to flip tables
+- Write Python, SQL, Go, and Java (and occasionally argue about which is best)
+- Wrangle Apache Spark into submission
+- Deploy things with Docker and Kubernetes (and pretend I knew what I was doing all along)
+- Create React dashboards that spark joy (Marie Kondo would approve)
+- Make distributed systems distribute... correctly
+
+## 🚀 What I'm Looking For
+
+**Full-time Data Engineering and Analytics roles starting May 2025** where I can:
+- Solve problems that matter (not just optimize ad click-through rates)
+- Work with teams that believe democratizing data access is a feature, not a bug
+- Build systems that scale without sacrificing security or sanity
+- Contribute to missions like enhancing security infrastructure, making the internet faster, or generally making the world less broken
+
+If you're building platforms where performance meets purpose, let's talk. Fair warning: I get unreasonably excited about schema design, and I won't apologize for it.
+
+## 💡 Hot Takes & Interests
+
+**I believe:**
+- The best code is code that future-you won't curse past-you for writing
+- "It works on my machine" is the start of a conversation, not a solution
+- Data pipelines that break at 3 AM are character-building experiences (but let's add better error handling anyway)
+- The perfect data model exists somewhere between third normal form and "ship it by Friday"
+
+**Always down to discuss:**
+- Why distributed systems are simultaneously brilliant and terrible
+- Data architecture patterns that won't haunt you in production
+- How to explain to stakeholders that their "simple request" requires rebuilding the entire ETL pipeline
+- Anything involving making data work better for actual humans
+
+## 🎓 Currently
+
+**M.S. Data Science, Analytics, and Engineering @ Arizona State University**
+
+Building the future of data infrastructure, one pipeline at a time. Sometimes it breaks. I fix it. We learn. We grow. Circle of life. 🦁
+
+---
+
+*P.S. - If you scrolled this far, you either genuinely care or are procrastinating spectacularly. Either way, I respect the commitment. Let's connect and build something that doesn't break at 3 AM.*
+
+## 📫 Let's Collaborate
+
+If you're working on data platforms that prioritize both performance and people, hit me up. I promise I'm less chaotic than my commit history suggests.
 
 
 ## 🌐 Socials:
