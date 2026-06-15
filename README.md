@@ -1,66 +1,180 @@
-# 💫 About Me:
+# 💫 About Me
 
-I'm a Data Science grad student at Arizona State University who turns data chaos into something actually useful. As a Data Engineering Intern at JP Morgan Chase, I spend my days making 1TB of transaction data behave and building analytics platforms that 30,000+ users actually enjoy using (yes, it's possible).<br><br>**Portfolio:** [https://id-preview--e812a33b-0a4b-45a6-9322-e4b38d007d7d.lovable.app](https://jatinkumarportfoilo.lovable.app)
+I'm **Jatin Kumar R**, a Data Science graduate student at **Arizona State University** who turns messy, high-volume data into systems people can actually use.
+
+I work across **data engineering, machine learning, analytics, robotics data infrastructure, and LLM-ready pipelines**. Whether it’s processing large transaction datasets, building validation-heavy ETL workflows, organising robotics sensor data, or creating dashboards for stakeholders, I like building systems that are fast, reliable, and understandable.
+
+Currently, I’m gaining hands-on experience through roles at **ASU Helios Decision Center**, **Objectways**, and previous work with **JPMorgan Chase**, where I’ve worked on production-style data pipelines, fraud analytics, data quality automation, and scalable analytics workflows.
+
+<br>
+
+**Portfolio:** [jatinkumarportfoilo.lovable.app](https://jatinkumarportfoilo.lovable.app)
+
+---
 
 ## 🎯 Origin Story
 
-My data engineering obsession started with "The Great Transaction Data Crisis" – fragmented data everywhere, stakeholders in full panic mode, and me armed with Python and questionable amounts of caffeine. I somehow unified that mess into a cohesive analytics platform, improved processing speed by 40%, and reduced fraud by 28%. Plot twist: I learned that the best data solutions prioritize people over fancy algorithms. Who knew?
+My data journey started with a simple realisation: raw data is rarely ready, clean, or cooperative.
 
-Since then, I've been architecting full-stack data platforms, designing enterprise data models, and translating between Finance-speak, Sales-speak, Marketing-speak, and Product-speak (it's basically being a data polyglot). I turn business requirements into scalable solutions, and occasionally convince people that "just one more column" is never just one more column.
+At JPMorgan Chase, I worked with large-scale financial transaction data, using Python, SQL, and machine learning to uncover suspicious patterns, improve fraud detection, and reduce false positives. That experience taught me that the best data systems are not just technically strong. They also make life easier for the people who depend on them.
+
+Since then, I’ve been building pipelines, dashboards, validation layers, and analytics workflows that help teams move faster with more confidence. I enjoy translating messy business requirements into scalable data solutions, and I’ve learned that “just one more column” is almost never just one more column.
+
+---
 
 ## 💭 My Philosophy
 
-Data infrastructure should empower decision-makers, not give them new reasons to schedule therapy. Whether I'm building ETL pipelines with Apache Spark, designing executive dashboards that executives actually open, or optimizing distributed systems at 2 AM (don't ask), my goal is simple: make information accessible, actionable, and secure.
+Data infrastructure should make decision-making easier, not create new problems for teams to debug at midnight.
 
-I'm drawn to organizations that use technology as a force for good – where performance and privacy are best friends, not frenemies. If your company thinks "move fast and break things" should include "then fix them properly," we'll get along great.
+I believe strong data systems should be:
+
+- **Reliable** enough to trust  
+- **Scalable** enough to grow  
+- **Clear** enough for humans to understand  
+- **Secure** enough for real-world use  
+- **Useful** enough to actually drive decisions  
+
+Whether I’m building ETL pipelines, validating schema changes, designing dashboards, or preparing data for ML workflows, my goal is simple: make information accessible, actionable, and dependable.
+
+---
 
 ## 🔧 What I Actually Do
 
-- Build data platforms that don't make people want to flip tables
-- Write Python, SQL, Go, and Java (and occasionally argue about which is best)
-- Wrangle Apache Spark into submission
-- Deploy things with Docker and Kubernetes (and pretend I knew what I was doing all along)
-- Create React dashboards that spark joy (Marie Kondo would approve)
-- Make distributed systems distribute... correctly
+- Build Python and SQL-based ETL pipelines for structured and unstructured datasets  
+- Design validation layers for schema checks, null handling, anomaly detection, and data quality monitoring  
+- Work with large-scale data workflows using tools like Spark, Kafka, SQLAlchemy, Airflow, and cloud storage  
+- Support ML and analytics use cases through feature engineering, model-ready datasets, and reporting workflows  
+- Organise robotics and AI training datasets, including camera data, LiDAR point clouds, IMU logs, and ROS bag files  
+- Create dashboards and visualisations that help technical and non-technical stakeholders make decisions  
+- Document workflows so future teams, including future me, don’t suffer unnecessarily  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages  
+`Python` `SQL` `Java` `Go` `C++` `R`
+
+### Data Engineering  
+`ETL` `Apache Spark` `Kafka` `Airflow` `dbt` `SQLAlchemy` `Snowflake` `TimescaleDB`
+
+### Machine Learning & AI  
+`Scikit-learn` `XGBoost` `Feature Engineering` `Anomaly Detection` `Model Evaluation` `MLOps`
+
+### LLM & AI Infrastructure  
+`LangChain` `RAG` `Vector Search` `LLM Workflows` `Prompt Engineering`
+
+### Cloud & DevOps  
+`AWS` `GCP` `Docker` `Kubernetes` `Cloud Storage` `CI/CD`
+
+### Analytics & Visualisation  
+`Tableau` `Power BI` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+## 🚀 Current Focus
+
+Right now, I’m focused on building stronger skills in:
+
+- Production-grade data engineering  
+- ML-ready and LLM-ready data infrastructure  
+- Fraud detection and anomaly detection systems  
+- Robotics data pipelines  
+- Cloud-native analytics platforms  
+- Data quality automation  
+- Scalable dashboarding and stakeholder-facing analytics  
+
+---
+
+## 📌 Experience Snapshot
+
+### ASU Helios Decision Center  
+**Data Scientist Assistant**
+
+- Built Python and SQLAlchemy ETL pipelines processing **500K+ rows** from **6 heterogeneous data sources**
+- Added automated schema validation, anomaly detection, and null-handling checks
+- Reduced pipeline runtime by **75%**, from around **40 minutes to under 10 minutes**
+- Helped eliminate **20+ weekly data quality issues** before they reached downstream analytics workflows
+- Created visualisations that supported active educational analytics and research decisions
+
+### Objectways  
+**Robotics Data Infrastructure Engineer Intern**
+
+- Supported data pipeline development for robotics and AI training datasets
+- Worked with sensor data such as camera frames, LiDAR point clouds, IMU logs, and ROS bag files
+- Built Python-based automation for ingestion, validation, and dataset organisation
+- Assisted with metadata tracking, SQL-based querying, and cloud storage structuring
+- Helped reduce repetitive manual data preparation work by an estimated **20–30%**
+
+### JPMorgan Chase  
+**Data Science Intern**
+
+- Analysed large-scale financial transaction data using Python and SQL
+- Identified suspicious transaction patterns and new fraud-related signals
+- Built ML classification workflows that improved fraud detection accuracy by **28%**
+- Reduced false positives by **18%**, lowering analyst review effort
+- Created Tableau dashboards for real-time risk monitoring and stakeholder reporting
+
+---
+
+## 🎓 Currently
+
+**M.S. Data Science, Analytics, and Engineering**  
+Arizona State University  
+*2025 – 2027*
+
+Building data systems, breaking them occasionally, fixing them properly, and learning something every time.
+
+---
 
 ## 🚀 What I'm Looking For
 
-**Full-time Data Engineering and Analytics roles starting May 2025** where I can:
-- Solve problems that matter (not just optimize ad click-through rates)
-- Work with teams that believe democratizing data access is a feature, not a bug
-- Build systems that scale without sacrificing security or sanity
-- Contribute to missions like enhancing security infrastructure, making the internet faster, or generally making the world less broken
+I’m interested in **Data Engineering, Data Science, Machine Learning Engineering, AI Infrastructure, and Analytics roles** where I can:
 
-If you're building platforms where performance meets purpose, let's talk. Fair warning: I get unreasonably excited about schema design, and I won't apologize for it.
+- Build scalable data platforms  
+- Work on ML and AI systems that move beyond prototypes  
+- Improve data quality, reliability, and observability  
+- Help teams make better decisions with cleaner data  
+- Contribute to products where performance, privacy, and purpose matter  
+
+I get unusually excited about pipeline optimisation, schema design, and making data easier for humans to use. I’m not apologising for that.
+
+---
 
 ## 💡 Hot Takes & Interests
 
 **I believe:**
-- The best code is code that future-you won't curse past-you for writing
-- "It works on my machine" is the start of a conversation, not a solution
-- Data pipelines that break at 3 AM are character-building experiences (but let's add better error handling anyway)
-- The perfect data model exists somewhere between third normal form and "ship it by Friday"
 
-**Always down to discuss:**
-- Why distributed systems are simultaneously brilliant and terrible
-- Data architecture patterns that won't haunt you in production
-- How to explain to stakeholders that their "simple request" requires rebuilding the entire ETL pipeline
-- Anything involving making data work better for actual humans
+- The best code is code that future-you won’t curse past-you for writing  
+- “It works on my machine” is the beginning of debugging, not the end  
+- Data quality checks are not optional, they’re survival tools  
+- Dashboards should answer questions, not create new meetings  
+- The perfect data model lives somewhere between third normal form and “ship it by Friday”  
 
-## 🎓 Currently
+**Always happy to discuss:**
 
-**M.S. Data Science, Analytics, and Engineering @ Arizona State University**
-
-Building the future of data infrastructure, one pipeline at a time. Sometimes it breaks. I fix it. We learn. We grow. Circle of life. 🦁
+- Data architecture patterns that survive production  
+- Fraud detection and anomaly detection  
+- LLM-ready data pipelines  
+- Robotics data infrastructure  
+- Distributed systems that are brilliant, terrifying, and occasionally both  
+- How to explain why a “simple data request” is not actually simple  
 
 ---
 
-*P.S. - If you scrolled this far, you either genuinely care or are procrastinating spectacularly. Either way, I respect the commitment. Let's connect and build something that doesn't break at 3 AM.*
-
 ## 📫 Let's Collaborate
 
-If you're working on data platforms that prioritize both performance and people, hit me up. I promise I'm less chaotic than my commit history suggests.
+If you're building data platforms, ML systems, analytics workflows, or AI infrastructure that prioritise both performance and people, let's connect.
 
+I promise I’m less chaotic than my commit history suggests.
+
+- **LinkedIn:** [Jatin Kumar R](https://www.linkedin.com/in/jatin-kumar-r-87369b273)
+- **Email:** jatin.kars@gmail.com
+- **Portfolio:** [jatinkumarportfoilo.lovable.app](https://jatinkumarportfoilo.lovable.app)
+
+---
+
+*P.S. If you scrolled this far, you either genuinely care or are procrastinating spectacularly. Either way, I respect the commitment.*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jatin-kumar-87369b273/?trk=opento_sprofile_topcard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jreddima@asu.edu) 
